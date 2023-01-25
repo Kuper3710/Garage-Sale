@@ -21,11 +21,11 @@ body{
     gap: 26px;
 }
 
-.producto-card{
+.product-card{
     width: 240px;
 }
 
-.producto-card > img{
+.product-card > img{
     width: 240px;
     height: 240px;
     border-radius: 20px;
@@ -67,11 +67,11 @@ body{
         grid-template-columns: repeat(auto-fill, 140px);
     }
 
-    .producto-card{
+    .product-card{
         width: 140px;
     }
 
-    .producto-card > img{
+    .product-card > img{
         width: 140px;
         height: 140px;
     }
